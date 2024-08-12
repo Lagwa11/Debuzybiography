@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+img{
+    width: 100%;
+    height: auto;
+    descent-override: 100px;
+}
+.save{
+    margin-left: 900px;
+}
+.container{
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+}
